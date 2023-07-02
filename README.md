@@ -8,7 +8,7 @@
 - 💻 Back-End: Node.js, Express.js, OAuth etc
 - 💻 Additionals: C, Python(Basic), WordPress, Shopify
 - 💻 Database: MongoDB, mySQL, Mongoose
-- 📫 Reach me via: surajarya130@gmail.com, LinkedIn: @iamsurajarya Twitter: iam_surajarya
+- 📫 Reach me via: surajarya130@gmail.com, Twitter: iam_surajarya
 
 
 
