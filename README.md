@@ -4,7 +4,7 @@
 - 💻 I'm on mission of making 25 days 50 Projects(Yeah It was 50 Days 50 Project but I have 25 hours a day) using HMTL, CSS, JS. (Started on 3rd May'21)
 - ✅ I have finished 2 full stack course on Udemy.
 - 💞️ I’m looking to collaborate on FLutter and Node.js ...
-- 💻 Front-End: HTML, CSS, JS, React(Beginner), jQuery, Bootstrap
+- 💻 Front-End: HTML, CSS, JS, React, Redux, jQuery, Material UI, Bootstrap
 - 💻 Back-End: Node.js, Express.js, OAuth etc
 - 💻 Additionals: C, Python(Basic), WordPress, Shopify
 - 💻 Database: MongoDB, mySQL, Mongoose
@@ -13,11 +13,11 @@
 
 
 - 🔗 Few of cool project links below:
-        Find Dish: https://relaxed-williams-77e00f.netlify.app/                 (Stacks: HTML, CSS, JS, jQuery, API)
-        My Keeper App using React: https://78ik5.csb.app/
-        Weather App: https://weatherapp1-in.herokuapp.com/                      (Stacks: HTML, CSS, JS, jQuery, API)
+        House Market App: https://house-market-swart.vercel.app/                 (Stacks: React, FIrebase, JS, API, Material UI, CSS)
+        Ticket Support System: https://ticket-system-xcja.onrender.com/          (Stacks: React, Node, Express, MongoDb, Material UI, CSS)
+        Dog Saloon App: https://extraordinary-trifle-4ab28d.netlify.app/         (Stacks: React, Node, Express, MongoDb, JS, CSS)
         
-- 🌏 My Portfolio: https://surajarya130.github.io/surajarya/
+- 🌏 My Portfolio: https://surajarya.netlify.app/
         
 
 
